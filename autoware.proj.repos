@@ -6,16 +6,16 @@ repositories:
     version: master
   autoware/launcher:
     type: git
-    url: git@github.com:tier4/autoware_launcher.iv.universe.git
+    url: git@github.com:TakedaLab/autoware_launcher.aidi.git
     version: master
   # description
   description/sensor/sensor_description:
     type: git
-    url: git@github.com:tier4/sensor_description.iv.universe.git
+    url: git@github.com:TakedaLab/sensor_description.aidi.git
     version: master
-  description/vehicle/lexus_description:
+  description/vehicle/aidi_axio_description:
     type: git
-    url: git@github.com:tier4/lexus_description.iv.universe.git
+    url: git@github.com:TakedaLab/aidi_axio_description.git
     version: master
   # simulator
   simulator/planning_simulator:
